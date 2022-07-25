@@ -12,7 +12,7 @@
 
 
 - 🌱 I’m currently learning C++ / C Development and other programming languages
-
+- 💼 If you want to ask me a question or want to work with me, my discord address: MrKouhx#3326
 - 📫 How to reach me **MrKouhx@gmail.com**
 
 
