@@ -21,11 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://discord.gg/YaVV3Mda8A" target="blank"><img align="center"
-      src="https://media.discordapp.net/attachments/759446635271946240/1001077213719969832/discord-color-logo-E5E6DFEF80-seeklogo.com.png"
+  <a href="https://discord.gg/easybeast" target="blank"><img align="center"
+      src="https://static.vecteezy.com/system/resources/previews/006/892/625/large_2x/discord-logo-icon-editorial-free-vector.jpg"
       alt="kouhx discord" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UCc7YetIr3KAgjDaEFgVOUZw" target="blank"><img align="center"
-      src="https://media.discordapp.net/attachments/759446635271946240/1001077586505510993/1384060.png?width=468&height=468"
+  <a href="https://www.youtube.com/@MaskRust0" target="blank"><img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"
       alt="kouhx youtube" height="30" width="40" /></a>
 </p>
 
