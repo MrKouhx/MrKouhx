@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yigit aka MrKouhx</h1>
+<h1 align="center">Hi 👋, I'm MrKouhx</h1>
 
 <br>
 
